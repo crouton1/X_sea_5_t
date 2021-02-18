@@ -1,0 +1,26 @@
+body{
+    background-color: #80f085;
+}
+h1{
+    color:rgb(184, 0, 0);
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background: skyblue;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+p,h2
+{
+    text-align:center;
+}
+.share{
+    display:flex ;
+    justify-content:flex-end ;
+}
